@@ -1,42 +1,41 @@
-```md
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">🚀 Independent PHP Developer | Founder @ OfferPlant Technologies | Open Source Enthusiast</h3>
+# Hi 👋, I'm Saurabh
+
+### 🚀 Independent PHP Developer | Founder @ OfferPlant Technologies | Open Source Enthusiast
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krsaurabhmca&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krsaurabhmca&theme=algolia&margin-w=15&margin-h=15" alt="trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=krsaurabhmca&theme=algolia&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently building **Panchsheel**
-- 🌱 Exploring **AI Tools, Modern PHP Architecture & SaaS Products**
-- 💬 Ask me about **PHP, CodeIgniter, JavaScript, HTML, CSS**
-- 🏢 Founder of **OfferPlant Technologies Private Limited**
-- 📝 I write articles on tech & development
-- ⚡ 7+ Years of Experience in Web Development
-- 📫 Reach me at: **snagbanshi@offerplant.com**
+* 🔭 Currently working on **Panchsheel**
+* 🌱 Learning **AI Tools, SaaS Architecture & Modern PHP**
+* 💬 Ask me about **PHP, JavaScript, HTML, CSS, CodeIgniter**
+* 🏢 Founder of **OfferPlant Technologies Private Limited**
+* ✍️ Technical Blogger
+* ⚡ 7+ Years of Experience in Web Development
+* 📫 Contact: **[snagbanshi@offerplant.com](mailto:snagbanshi@offerplant.com)**
 
 ---
 
-## 🚀 Current Project
+# 🚀 Current Project
 
-### 🔹 Panchsheel
-A modern digital initiative focused on scalable web solutions.
+## 🔹 Panchsheel
 
-👉 Project Link:  
+Modern scalable digital solution platform.
+
+👉 Project Link:
 https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED/panchsheel
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://twitter.com/krsaurabhbca" target="blank">
@@ -54,7 +53,7 @@ https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED/panchsheel
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 
 <p align="left">
 
@@ -80,7 +79,7 @@ https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED/panchsheel
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=krsaurabhmca&show_icons=true&theme=tokyonight" alt="github stats" />
@@ -96,17 +95,18 @@ https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED/panchsheel
 
 ---
 
-## 📌 Organizations & Portfolio
+# 📌 Organizations & Portfolio
 
-- 🌐 Blog: http://offerplant.blogspot.com/
-- 🏢 Organization: https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED
-- 💻 Projects Dashboard:
+* 🌐 Blog: http://offerplant.blogspot.com/
+
+* 🏢 GitHub Organization:
+  https://github.com/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED
+
+* 💻 Projects Dashboard:
   https://github.com/orgs/OFFERPLANT-TECNOLOGIES-PRIVATE-LIMITED/dashboard
 
 ---
 
-## 💡 Fun Fact
+# 💡 Fun Fact
 
-> “Code + Creativity + Consistency = Successful Products”
-
-```
+> "Code + Creativity + Consistency = Successful Products"
