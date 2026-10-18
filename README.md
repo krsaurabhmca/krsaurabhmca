@@ -2,14 +2,6 @@
 
 ### 🚀 Independent PHP Developer | Founder @ OfferPlant Technologies | Open Source Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krsaurabhmca&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krsaurabhmca&theme=algolia&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
